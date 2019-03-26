@@ -1,0 +1,6 @@
+
+### Analysis For Date 03/25/2019
+
+* As expected, the weather becomes significantly warmer as one approaches the equator (0 Deg. Latitude).Intresting fact that the southern hemisphere tends to be warmer this time of year than the northern hemisphere.
+* Latitude and Humidity shows no strong relation but as we reach Northern and Southern hemisphere humidity decreses and humidity rises near equator
+* Latitude and wind speed shows no strong relation but there are citi northern hemispheres there is a flurry of cities with over 20 mph of wind.
